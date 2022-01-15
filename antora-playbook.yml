@@ -1,5 +1,5 @@
 site:
-  title: ThoughtSpot Software Documentation
+  title: ThoughtSpot Documentation
   url: https://preview-thoughtspot.netlify.app
   start_page: home::index.adoc
 content:
