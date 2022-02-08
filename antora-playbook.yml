@@ -31,8 +31,8 @@ asciidoc:
   attributes:
     software: true
     cloud: false
+    support-url: https://community.thoughtspot.com/customers/s/contactsupport[ThoughtSpot Support^]
     tabs: tabs
-    support-url: https://community.thoughtspot.com/s/login/?ec=302&startURL=%2Fcustomers%2Fs%2Fcontactsupport
   extensions:
   - ./lib/asciidoctor-performance-patch.js
   - "@djencks/asciidoctor-tabset-block"
