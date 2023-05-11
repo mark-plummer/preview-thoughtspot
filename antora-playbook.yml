@@ -9,7 +9,7 @@ content:
     branches: HEAD
     start_path: home
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
-    branches: ['7.0', '7.1', '7.2', '8.4.1.sw', '8.8.0.sw', '8.8.1.sw', '9.0.0.sw']
+    branches: ['7.0', '7.1', '7.2', '8.4.1.sw', '8.8.0.sw', '8.8.1.sw', '9.0.0.sw', '9.0.1.sw']
     start_path: software/
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
     branches: ['9.2.0.cl', '9.1.0.cl', '9.0.0.cl', '8.10.0.cl', '8.9.0.cl', '8.8.0.cl']
