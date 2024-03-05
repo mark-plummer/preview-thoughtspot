@@ -39,8 +39,7 @@ asciidoc:
     cl-subscription-agreement: https://www.thoughtspot.com/legal/thoughtspot-cloud-subscription-agreement[subscription agreement^]
     tabs: tabs
   extensions:
-  - ./lib/asciidoctor-performance-patch.js
-  - "@djencks/asciidoctor-tabset-block"
+    - '@asciidoctor/tabs'
 output:
   clean: true
   dir: build/
