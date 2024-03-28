@@ -14,6 +14,10 @@ content:
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
     branches: ['9.11.0.cl', '9.10.0.cl', '9.8.0.cl', '9.7.0.cl']
     start_path: cloud/
+  - url: git@github.com:thoughtspot/thoughtspot-docs.git
+    # Seekwell docs branches
+    branches: [ 'seekwell' ]
+    start_path: seekwell/
   - url: git@github.com:thoughtspot/visual-embed-sdk.git
     branches: ['7.1.1-sw-docs', '7.2-sw-docs']
     start_path: docs/software
