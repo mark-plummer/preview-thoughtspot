@@ -7,7 +7,7 @@ Choose the documentation you need from the following choices:
 ++++
 <div class="columns">
   <div class="box">
-    <img src="_images/software.png">
+    <img src="https://docs.thoughtspot.com/home/_images/software.png">
     <h2>
       Software documentation
     </h2>
@@ -17,7 +17,7 @@ Choose the documentation you need from the following choices:
     </ul>
     </div>
   <div class="box">
-  <img src="_images/cloud.png">
+  <img src="https://docs.thoughtspot.com/home/_images/cloud.png">
     <h2>
       Cloud documentation
     </h2>
@@ -27,7 +27,7 @@ Choose the documentation you need from the following choices:
     </ul>
     </div>
   <div class="box">
-      <img src="_images/developer.png">
+      <img src="https://docs.thoughtspot.com/home/_images/developer.png">
       <h2>
         Developer documentation
       </h2>
@@ -37,7 +37,7 @@ Choose the documentation you need from the following choices:
       </ul>
       </div>
    <div class="box">
-     <img src="_images/just-logo-black-40px.png">
+     <img src="https://docs.thoughtspot.com/home/_images/just-logo-black-40px.png">
      <h2>
        SeekWell documentation
      </h2>
