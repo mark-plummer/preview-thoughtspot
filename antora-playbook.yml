@@ -12,7 +12,7 @@ content:
     branches: ['9.5.0.sw','9.8.0.sw']
     start_path: software/
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
-    branches: ['9.12.0.cl', '9.11.0.cl', '9.10.0.cl', '9.8.0.cl', '9.7.0.cl']
+    branches: ['9.12.5.cl', '9.12.0.cl', '9.11.0.cl', '9.10.0.cl', '9.8.0.cl', '9.7.0.cl']
     start_path: cloud/
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
     # Seekwell docs branches
