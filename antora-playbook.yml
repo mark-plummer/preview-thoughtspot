@@ -1,6 +1,6 @@
 site:
   title: ThoughtSpot Documentation Preview Site
-  url: https://preview-thoughtspot.vercel.app
+  url: https://preview-thoughtspot.netlify.app
   start_page: home::index.adoc
 content:
   sources:
@@ -14,6 +14,10 @@ content:
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
     branches: ['9.12.5.cl', '9.12.0.cl', '9.11.0.cl', '9.10.0.cl']
     start_path: cloud/
+  - url: git@github.com:thoughtspot/thoughtspot-docs.git
+    # Mobile docs branches
+    branches: [ '3.0.0.mb' ]
+    start_path: mobile/
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
     # Seekwell docs branches
     branches: [ 'seekwell' ]
