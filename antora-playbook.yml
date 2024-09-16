@@ -23,9 +23,9 @@ content:
     branches: [ 'seekwell' ]
     start_path: seekwell/
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
-    # Copilot docs branch
+    # Spotter docs branch
     branches: ['1.0.0.cp']
-    start_path: copilot/
+    start_path: spotter/
   - url: git@github.com:thoughtspot/visual-embed-sdk.git
     branches: ['7.1.1-sw-docs', '7.2-sw-docs']
     start_path: docs/software
@@ -47,7 +47,6 @@ asciidoc:
     cloud: false
     page-company: ThoughtSpot
     seekwell: SeekWell
-    copilot: Copilot
     latest: 10.1.0.cl
     support-url: https://community.thoughtspot.com/customers/s/contactsupport[ThoughtSpot Support^]
     cl-subscription-agreement: https://www.thoughtspot.com/legal/thoughtspot-cloud-subscription-agreement[subscription agreement^]
