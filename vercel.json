@@ -22,6 +22,10 @@
       "destination": "/spotter/latest/",
       "statusCode": 301 },
     {
+      "source": "/seekwell/latest",
+      "destination": "/seekwell/latest/",
+      "statusCode": 301 },
+    {
       "source": "/cloud/9.10.0.cl",
       "destination": "/cloud/9.10.0.cl/",
       "statusCode": 301 },
