@@ -14,6 +14,14 @@
       "destination": "/cloud/latest/",
       "statusCode": 301 },
     {
+      "source": "/mobile/latest",
+      "destination": "/mobile/latest/",
+      "statusCode": 301 },
+    {
+      "source": "/spotter/latest",
+      "destination": "/spotter/latest/",
+      "statusCode": 301 },
+    {
       "source": "/cloud/9.10.0.cl",
       "destination": "/cloud/9.10.0.cl/",
       "statusCode": 301 },
