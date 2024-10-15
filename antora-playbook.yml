@@ -47,7 +47,7 @@ asciidoc:
     cloud: false
     page-company: ThoughtSpot
     seekwell: SeekWell
-    latest: 10.3.0.cl
+    latest: 10.1.0.cl
     support-url: https://community.thoughtspot.com/customers/s/contactsupport[ThoughtSpot Support^]
     cl-subscription-agreement: https://www.thoughtspot.com/legal/thoughtspot-cloud-subscription-agreement[subscription agreement^]
     tabs: tabs
