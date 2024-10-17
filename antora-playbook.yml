@@ -53,6 +53,7 @@ asciidoc:
     tabs: tabs
   extensions:
     - '@asciidoctor/tabs'
+    - '@antora/pdf-extension'
 output:
   clean: true
   dir: build/
