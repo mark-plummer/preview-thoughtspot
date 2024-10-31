@@ -2,14 +2,6 @@
   "cleanUrls": true,
   "redirects": [
     {
-      "source": "/software/9.8.0.sw/:path*",
-      "destination": "/software/latest/:path*",
-      "statusCode": 301 },
-    {
-      "source": "/cloud/9.10.5.cl/:path*",
-      "destination": "/cloud/latest/:path*",
-      "statusCode": 301 },
-    {
       "source": "/cloud/latest",
       "destination": "/cloud/latest/",
       "statusCode": 301 },
@@ -51,7 +43,7 @@
       "statusCode": 301 },
     {
       "source": "/software/9.8.0.sw",
-      "destination": "/software/latest/",
+      "destination": "/software/9.8.0.sw/",
       "statusCode": 301 },
     {
       "source": "/software/9.5.0.sw",
