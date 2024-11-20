@@ -16,7 +16,7 @@ content:
     start_path: cloud/
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
     # Mobile docs branches
-    branches: [ '3.0.0.mb' ]
+    branches: [ '3.0.0.mb', '3.3.0.mb' ]
     start_path: mobile/
   - url: git@github.com:thoughtspot/thoughtspot-docs.git
     # Seekwell docs branches
