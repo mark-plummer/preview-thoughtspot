@@ -115,6 +115,10 @@
       "statusCode": 301 },
     {
       "source": "/software/1.0",
+      "destination": "/software/1.0/",
+      "statusCode": 301 },
+    {
+      "source": "/software/1.0/",
       "destination": "/software/9.0.1.sw/",
       "statusCode": 301 }
 ],
