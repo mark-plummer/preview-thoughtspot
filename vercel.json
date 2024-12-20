@@ -88,8 +88,18 @@
     {
       "source": "/software/6.0",
       "destination": "/software/6.0/",
+      "statusCode": 301 },
+    {
+      "source": "/software/99.0.0.sw",
+      "destination": "https://preview-thoughtspot.vercel.app/software/latest/",
       "statusCode": 301 }
 ],
+  "rewrites": [
+    {
+      "source": "/software/1.0",
+      "destination": "https://archive-docs-thoughtspot-com.vercel.app/software/9.0.1.sw/",
+      "statusCode": 200 },
+  ],
   "headers": [
     {
       "source": "/(.*)",
