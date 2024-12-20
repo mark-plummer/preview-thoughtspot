@@ -120,8 +120,8 @@
 ],
   "rewrites": [
     {
-      "source": "/software/9.0.1.sw/",
-      "destination": "https://archive-docs-thoughtspot-com.vercel.app/software/9.0.1.sw/index.html",
+      "source": "/software/9.0.1.sw/:path*",
+      "destination": "https://archive-docs-thoughtspot-com.vercel.app/software/9.0.1.sw/:path*",
       "statusCode": 200 }
   ],
   "headers": [
