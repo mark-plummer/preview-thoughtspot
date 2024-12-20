@@ -118,6 +118,12 @@
       "destination": "/software/9.0.1.sw/",
       "statusCode": 301 }
 ],
+  "rewrites": [
+    {
+      "source": "/software/9.0.1.sw/",
+      "destination": "https://archive-docs-thoughtspot-com.vercel.app/software/9.0.1.sw/index.html",
+      "statusCode": 200 }
+  ],
   "headers": [
     {
       "source": "/(.*)",
