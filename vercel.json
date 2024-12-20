@@ -98,7 +98,7 @@
     {
       "source": "/software/1.0",
       "destination": "https://archive-docs-thoughtspot-com.vercel.app/software/9.0.1.sw/",
-      "statusCode": 200 },
+      "statusCode": 200 }
   ],
   "headers": [
     {
