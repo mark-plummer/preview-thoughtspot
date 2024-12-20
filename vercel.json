@@ -74,10 +74,6 @@
       "destination": "/software/9.5.0.sw/",
       "statusCode": 301 },
     {
-      "source": "/software/9.0.1.sw",
-      "destination": "/software/9.0.1.sw/",
-      "statusCode": 301 },
-    {
       "source": "/software/8.8.1.sw",
       "destination": "/software/8.8.1.sw/",
       "statusCode": 301 },
@@ -124,7 +120,7 @@
 ],
   "rewrites": [
     {
-      "source": "/software/9.0.1.sw/",
+      "source": "/software/9.0.1.sw",
       "destination": "https://archive-docs-thoughtspot-com.vercel.app/software/9.0.1.sw/",
       "statusCode": 200 }
   ],
