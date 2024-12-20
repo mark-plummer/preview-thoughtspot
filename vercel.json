@@ -38,6 +38,26 @@
       "destination": "/cloud/9.5.0.cl/",
       "statusCode": 301 },
     {
+      "source": "/cloud/10.1.0.cl",
+      "destination": "/cloud/10.1.0.cl/",
+      "statusCode": 301 },
+    {
+      "source": "/cloud/10.3.0.cl",
+      "destination": "/cloud/10.3.0.cl/",
+      "statusCode": 301 },
+    {
+      "source": "/cloud/10.4.0.cl",
+      "destination": "/cloud/10.4.0.cl/",
+      "statusCode": 301 },
+    {
+      "source": "/cloud/10.5.0.cl",
+      "destination": "/cloud/10.5.0.cl/",
+      "statusCode": 301 },
+    {
+      "source": "/cloud/10.6.0.cl",
+      "destination": "/cloud/10.6.0.cl/",
+      "statusCode": 301 },
+    {
       "source": "/software/latest",
       "destination": "/software/latest/",
       "statusCode": 301 },
