@@ -108,7 +108,7 @@
     {
       "source": "/software/6.0",
       "destination": "/software/6.0/",
-      "statusCode": 301 },
+      "statusCode": 301 }
 ],
   "headers": [
     {
