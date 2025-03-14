@@ -47,7 +47,7 @@ asciidoc:
     cloud: false
     page-company: ThoughtSpot
     seekwell: SeekWell
-    latest-release-date: April 2025
+    latest-release-date: <span class="badge badge-early-access">April 2025</span></h1>
     latest: 10.3.0.cl
     support-url: https://community.thoughtspot.com/customers/s/contactsupport[ThoughtSpot Support^]
     cl-subscription-agreement: https://www.thoughtspot.com/legal/thoughtspot-cloud-subscription-agreement[subscription agreement^]
